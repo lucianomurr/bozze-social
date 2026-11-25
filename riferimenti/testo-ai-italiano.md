@@ -1,13 +1,13 @@
 # Segni di testo scritto da un'AI (in italiano)
 
 Una didascalia che "suona AI" perde fiducia, anche quando dice cose vere. Questi sono i segni più frequenti in
-italiano. Controllali uno per uno prima di consegnare. Non serve eliminarli tutti a ogni costo: serve che il testo
-sembri scritto da una persona che sa di cosa parla.
+italiano. Controllali uno per uno prima di consegnare. Qualcuno può restare, se la frase è vera e suona naturale. Alla fine il testo deve
+sembrare scritto da una persona che sa di cosa parla.
 
 1. **Antitesi a effetto**: "Non è X, è Y", "Non si tratta di X, ma di Y", "Non solo X, ma anche Y" usate come slogan.
    Al massimo una per testo, e solo se dice qualcosa di vero.
-2. **Elenchi di tre ritmati**: tre aggettivi o tre frasi parallele ("leggera, reattiva, protettiva";
-   "Più comfort, più stabilità, più energia"). Spezzali o tienine due.
+2. **Elenchi di tre ritmati**: tre aggettivi o tre frasi parallele ("semplice, veloce, gustosa";
+   "Più tempo, più energia, più risultati"). Spezzali o tienine due.
 3. **Chiuse a effetto** in fondo ai paragrafi ("E questo fa tutta la differenza.", "Un passo alla volta.",
    "Senza compromessi."). Chiudi con un fatto o con la richiesta.
 4. **Lineette lunghe (—)** e due punti usati per creare suspense ("Il segreto: …"). Meglio virgola, punto, parentesi.

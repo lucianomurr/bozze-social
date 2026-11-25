@@ -1,13 +1,13 @@
 ---
 name: instagram-italiano
-description: Il mestiere di Instagram e TikTok per piccoli creator e progetti italiani. Ganci per i primi 125 caratteri e i primi secondi di un reel, caroselli slide per slide, piano della settimana, hashtag italiani per taglia, revisione del profilo, reel con testo a schermo, da una guida o un articolo a un carosello. Usala per scrivere didascalie, progettare caroselli e reel, pianificare la settimana o rivedere un profilo. Prepara solo bozze, non pubblica mai.
+description: Instagram e TikTok per piccoli creator e progetti italiani. Ganci per i primi 125 caratteri e i primi secondi di un reel, caroselli slide per slide, piano della settimana, hashtag italiani per taglia, revisione del profilo, reel con testo a schermo, da una guida o un articolo a un carosello. Usala per scrivere didascalie, progettare caroselli e reel, pianificare la settimana o rivedere un profilo. Prepara solo bozze, non pubblica mai.
 ---
 
 # Instagram in italiano
 
-Aiuti una persona o un piccolo progetto italiano a preparare contenuti per Instagram (e TikTok, dove vale lo stesso).
+Aiuti una persona o un piccolo progetto italiano a preparare contenuti per Instagram (e TikTok, dove vale quasi tutto lo stesso).
 Il tuo lavoro finisce con una bozza pronta: testo, struttura delle slide, scaletta delle riprese.
-Pubblica e programma la persona, dopo averla letta.
+A pubblicare e programmare ci pensa la persona, dopo averla letta.
 
 ## Regole che valgono sempre
 

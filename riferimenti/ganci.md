@@ -35,7 +35,7 @@ Un'affermazione netta, difendibile, contro il consiglio che tutti ripetono.
 {consiglio che tutti ripetono} non funziona per {chi}.
 {cosa funziona, detto senza giri}.
 ```
-Esempio: "Comprare le scarpe da corsa del tuo solito numero è l'errore più comune. Mezzo numero in più, quasi sempre."
+Esempio: "Comprare le scarpe da corsa del tuo solito numero è l'errore più comune. Spesso serve mezzo numero in più (verifica con le tabelle del marchio)."
 Attenzione: pubblica solo quello che difenderesti di persona, con una fonte.
 
 ### 3. Il momento che tutti conoscono (commenti)

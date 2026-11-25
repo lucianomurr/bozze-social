@@ -6,7 +6,7 @@ Tutto in italiano, con esempi italiani.
 
 ## Cosa fa
 - Scrive didascalie con il gancio nei primi ~125 caratteri e una sola richiesta finale.
-- Progetta caroselli slide per slide: promessa nella prima, il meglio subito, riepilogo da salvare nell'ultima.
+- Progetta caroselli slide per slide, con la promessa nella prima e un riepilogo da salvare nell'ultima.
 - Prepara la scaletta di reel e TikTok con testo a schermo, scena per scena.
 - Fa il piano della settimana per pilastri (utile, storia, leggero, promozione) con un controllo finale.
 - Sceglie 3-5 hashtag italiani della taglia giusta.
@@ -67,7 +67,7 @@ Cosa cambia rispetto all'originale:
 - tolto tutto il codice: pubblicazione automatica (Publora), immagini generate (Pixfaro), lettura dei profili (Apify);
 - la skill prepara solo bozze e non pubblica mai;
 - hashtag in italiano e orari indicativi per l'Italia;
-- nel profilo la foto può essere un volto o un marchio, senza obblighi;
+- nel profilo la foto può essere un volto o un logo, come preferisci (l'originale consiglia il volto);
 - nuovi: `reel.md` (testo a schermo e riprese) e `testo-ai-italiano.md` (segni di testo AI in italiano, al posto
   dello "humanizer" in inglese).
 
