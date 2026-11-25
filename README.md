@@ -1,4 +1,4 @@
-# instagram-italiano
+# bozze-social
 
 Una skill per [Claude Code](https://claude.com/claude-code) che aiuta piccoli creator e progetti italiani a preparare
 contenuti per Instagram e TikTok: didascalie, caroselli, reel, il piano della settimana, la revisione del profilo.
@@ -24,15 +24,15 @@ Tutto in italiano, con esempi italiani.
 ## Installazione
 Copia la cartella in uno di questi posti:
 
-- `~/.claude/skills/instagram-italiano/` per usarla in tutti i progetti;
-- `.claude/skills/instagram-italiano/` dentro un progetto, per usarla solo lì.
+- `~/.claude/skills/bozze-social/` per usarla in tutti i progetti;
+- `.claude/skills/bozze-social/` dentro un progetto, per usarla solo lì.
 
 ```sh
-git clone https://github.com/lucianomurr/instagram-italiano ~/.claude/skills/instagram-italiano
+git clone https://github.com/lucianomurr/bozze-social ~/.claude/skills/bozze-social
 ```
 
 Claude Code la carica da solo quando la richiesta riguarda Instagram o TikTok. Puoi anche chiamarla per nome:
-`/instagram-italiano`.
+`/bozze-social`.
 
 ## Esempi di richieste
 - "Scrivi la didascalia per questo carosello sul pane fatto in casa per principianti. Obiettivo: salvataggi."

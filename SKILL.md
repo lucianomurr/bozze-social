@@ -1,5 +1,5 @@
 ---
-name: instagram-italiano
+name: bozze-social
 description: Instagram e TikTok per piccoli creator e progetti italiani. Ganci per i primi 125 caratteri e i primi secondi di un reel, caroselli slide per slide, piano della settimana, hashtag italiani per taglia, revisione del profilo, reel con testo a schermo, da una guida o un articolo a un carosello. Usala per scrivere didascalie, progettare caroselli e reel, pianificare la settimana o rivedere un profilo. Prepara solo bozze, non pubblica mai.
 ---
 
