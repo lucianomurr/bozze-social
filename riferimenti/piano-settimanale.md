@@ -14,11 +14,11 @@ meccanico.
 
 Nessun pilastro sopra il 50%, sennò il profilo sembra monotono. La promozione al massimo 1-2 volte a settimana.
 
-Esempio per un piccolo progetto sulla corsa:
-- Utile: "Che misura prendere per le scarpe da corsa", carosello.
-- Storia: "Le mie prime scarpe le ho sbagliate così", post con foto.
-- Leggero: "I miei pensieri durante un lungo lento", reel con testo su clip.
-- Promozione: "Lo strumento è aperto, ecco come funziona", carosello.
+Esempio per un piccolo progetto di cucina:
+- Utile: "Quanto dura il cibo in frigo", carosello.
+- Storia: "Il mio primo pane è venuto così", post con foto.
+- Leggero: "I miei pensieri mentre aspetto che lieviti", reel con testo su clip.
+- Promozione: "Il ricettario è uscito, ecco cosa c'è dentro", carosello.
 
 ## Formato per pilastro
 
@@ -33,10 +33,10 @@ Esempio per un piccolo progetto sulla corsa:
 
 | Giorno | Formato | Pilastro | Formula | Idea | Obiettivo | Ora |
 |---|---|---|---|---|---|---|
-| Lun | Reel | Leggero | 3 Momento che tutti conoscono | "Frasi pericolose quando compri scarpe" | invii | 18:30 |
-| Mar | Carosello | Utile | 5 Lista | "4 controlli prima di comprare online" | salvataggi | 12:30 |
-| Gio | Post | Storia | 4 Confessione | "La volta che ho preso un numero in meno" | commenti | 12:30 |
-| Sab | Reel | Utile | 10 Come ho fatto | "Come scelgo tra due modelli" | salvataggi | 10:00 |
+| Lun | Reel | Leggero | 3 Momento che tutti conoscono | "Frasi che senti a ogni pranzo di famiglia" | invii | 18:30 |
+| Mar | Carosello | Utile | 5 Lista | "4 cose da sapere prima di surgelare" | salvataggi | 12:30 |
+| Gio | Post | Storia | 4 Confessione | "La volta che ho bruciato il sugo della domenica" | commenti | 12:30 |
+| Sab | Reel | Utile | 10 Come ho fatto | "Come preparo i pranzi della settimana in un'ora" | salvataggi | 10:00 |
 
 Sotto, le storie quasi ogni giorno: un dietro le quinte, un adesivo sondaggio o domanda, la condivisione del post del giorno.
 

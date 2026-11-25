@@ -25,7 +25,7 @@ Un risultato preciso nella prima riga, poi la promessa di spiegare come.
 {risultato con un numero preciso} in {tempo}.
 Ecco cosa ho cambiato.
 ```
-Esempio: "Ho portato il mio 10 km da 58:10 a 54:40 in otto settimane. Ecco le tre cose che ho cambiato."
+Esempio: "Ho portato la spesa della settimana da 94 a 71 euro in un mese. Ecco le tre cose che ho cambiato."
 Attenzione: il numero deve essere vero. Un numero contestato nei commenti costa più di quanto rende.
 
 ### 2. La verità scomoda (invii)
@@ -35,7 +35,7 @@ Un'affermazione netta, difendibile, contro il consiglio che tutti ripetono.
 {consiglio che tutti ripetono} non funziona per {chi}.
 {cosa funziona, detto senza giri}.
 ```
-Esempio: "Comprare le scarpe da corsa del tuo solito numero è l'errore più comune. Spesso serve mezzo numero in più (verifica con le tabelle del marchio)."
+Esempio: "Lavare i funghi sotto l'acqua non li rovina. Basta asciugarli subito."
 Attenzione: pubblica solo quello che difenderesti di persona, con una fonte.
 
 ### 3. Il momento che tutti conoscono (commenti)
@@ -44,7 +44,7 @@ Una scena precisa, senza introduzione. Chi legge si riconosce e risponde.
 ```
 {una riga che descrive un momento preciso del tuo mondo}
 ```
-Esempio: "Uscire per «una corsetta di 5 km» e rientrare un'ora e mezza dopo."
+Esempio: "Entrare al supermercato per il latte e uscire con 40 euro di spesa."
 Attenzione: è il formato più copiato. Funziona solo se è specifico.
 
 ### 4. La piccola confessione (commenti, follow)
@@ -54,7 +54,7 @@ Una storia breve in prima persona, con un costo vero, e cosa hai imparato.
 {quando}: {cosa è successo, compresa la parte che non torna a tuo favore}.
 {la riga che dà senso al racconto}.
 ```
-Esempio: "Le mie prime scarpe le ho scelte ai saldi perché costavano poco. Misura sbagliata, le ho tenute finché erano distrutte."
+Esempio: "La prima volta che ho fatto il pane ho usato il lievito sbagliato. È venuto un mattone, e l'ho mangiato lo stesso."
 Attenzione: deve essere vera. La vulnerabilità costruita si vede.
 
 ## Per il carosello

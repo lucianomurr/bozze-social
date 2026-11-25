@@ -8,7 +8,7 @@ nove parti, si dà un giudizio (va bene / da sistemare / da rifare) e si riscriv
 | # | Parte | Va bene se |
 |---|---|---|
 | 1 | **Immagine del profilo** | si legge piccola: forte contrasto, fondo semplice. Può essere un volto o un marchio, a scelta di chi crea il profilo |
-| 2 | **Nome** (il campo "Nome", non il nome utente) | contiene una parola che la gente cerca, entro 30 caratteri: "Nome · Corsa a Roma". È il campo che la ricerca di Instagram legge |
+| 2 | **Nome** (il campo "Nome", non il nome utente) | contiene una parola che la gente cerca, entro 30 caratteri: "Nome · Cucina vegetariana". È il campo che la ricerca di Instagram legge |
 | 3 | **Nome utente** | corto, facile da ricordare, uguale sugli altri social |
 | 4 | **Bio** (150 caratteri) | dice cosa ottiene chi ti segue, di cosa parli e una prova concreta. Niente frasi fatte, niente pioggia di emoji |
 | 5 | **Link** | uno, coerente con l'obiettivo (sito, iscrizione, strumento). Se ne servono di più, il primo è quello che conta |
@@ -26,9 +26,9 @@ nove parti, si dà un giudizio (va bene / da sistemare / da rifare) e si riscriv
 5. Prova finale: guardando solo immagine, nome, bio, link e prima riga di post, uno sconosciuto capisce a chi è
    rivolto il profilo e ha un motivo per seguirlo?
 
-## Esempio di bio (piccolo progetto sulla corsa)
-Prima: "Appassionato di running 🏃‍♂️🔥💪 | Sogni | Obiettivi | Link sotto 👇"
-Dopo: "Scegliere le scarpe da corsa senza farsi guidare dal marchio. 5 domande, 3 modelli di 3 marchi diversi. Il quiz è qui 👇"
+## Esempio di bio (piccolo progetto di cucina)
+Prima: "Amo cucinare 🍝❤️✨ | Food lover | Sogni | Link sotto 👇"
+Dopo: "Cene vegetariane in 30 minuti, con quello che hai in frigo. Una ricetta nuova ogni martedì. Le trovi tutte qui 👇"
 
 ## Regole
 - La bio parte da cosa ottiene chi legge, non dal tuo titolo.

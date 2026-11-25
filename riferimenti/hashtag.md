@@ -16,8 +16,8 @@ La taglia è il numero di post che usano quell'hashtag (si vede cercandolo nell'
 Totale 3-5. Se nessun hashtag grande c'entra davvero, non metterlo.
 
 ## Come trovarli
-- **Due parole insieme**: argomento + pubblico o luogo (`#corsaroma`, `#runningmamme`).
-- **Il nome della comunità**: come si chiamano tra loro le persone del tuo mondo (`#runnerpercaso`).
+- **Due parole insieme**: argomento + pubblico o luogo (`#cucinabologna`, `#ricettevegetarianefacili`).
+- **Il nome della comunità**: come si chiamano tra loro le persone del tuo mondo (`#fotografiaanalogica`).
 - **I profili simili al tuo**: guarda gli hashtag piccoli che usano, non i giganti in cima.
 - **La ricerca dell'app**: scrivi l'argomento e leggi i suggerimenti con il numero di post.
 

@@ -20,12 +20,12 @@ incollarlo non funziona. Il gancio è sbagliato, il formato è sbagliato, il rit
 8. **Hashtag e controllo finale** con `hashtag.md` e `checklist-didascalia.md`.
 
 ## Esempio
-Fonte: una guida di 1.800 parole su quando cambiare le scarpe da corsa, con due studi citati.
-- Nocciolo: le scarpe perdono ammortizzazione prima di quando te ne accorgi.
+Fonte: un articolo di 1.800 parole su come conservare le verdure, con due fonti citate.
+- Nocciolo: metà delle verdure si rovina prima perché la conserviamo nel posto sbagliato.
 - Contenitore: carosello da 7 slide (obiettivo: salvataggi) e un reel di 15 secondi (obiettivo: invii).
-- Carosello: 1 la promessa ("5 segnali che le tue scarpe sono da cambiare"), 2-6 un segnale per slide con foto vera,
-  7 i cinque segnali in una schermata.
-- Didascalia: il gancio, una riga sullo studio con la fonte, "salvalo e ricontrolla le tue scarpe" e il rimando alla guida.
+- Carosello: 1 la promessa ("5 verdure che non vanno in frigo"), 2-6 una verdura per slide con foto vera,
+  7 le cinque in una schermata.
+- Didascalia: il gancio, una riga sullo studio con la fonte, "salvalo per la prossima spesa" e il rimando alla guida.
 
 ## Regole
 - I fatti e i numeri della fonte non cambiano. Cambia solo il modo di dirli.

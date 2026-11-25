@@ -35,7 +35,7 @@ Claude Code la carica da solo quando la richiesta riguarda Instagram o TikTok. P
 `/instagram-italiano`.
 
 ## Esempi di richieste
-- "Scrivi la didascalia per questo carosello sulle scarpe da corsa per principianti. Obiettivo: salvataggi."
+- "Scrivi la didascalia per questo carosello sul pane fatto in casa per principianti. Obiettivo: salvataggi."
 - "Trasforma questa guida in un carosello da 7 slide." (allega o incolla il testo)
 - "Fammi il piano della prossima settimana: 2 reel, 1 carosello, storie. Il profilo parla di cucina vegetariana a Bologna."
 - "Rivedi la mia bio e dimmi quali post fissare."

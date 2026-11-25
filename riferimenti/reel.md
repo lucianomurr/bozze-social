@@ -22,8 +22,8 @@ crea il profilo.
 - La musica si aggiunge nell'app, dove ci sono gli audio di tendenza.
 
 ## Formati che funzionano bene con il testo a schermo
-- **Frasi tipiche** del tuo mondo, con la risposta ironica sotto ("È la più venduta." / "Ai piedi degli altri.").
-- **Pensieri durante…** un'attività, scena per scena ("km 1: oggi vado piano, giuro").
+- **Frasi tipiche** del tuo mondo, con la risposta ironica sotto ("Assaggia, non è piccante." / "Era piccante.").
+- **Pensieri durante…** un'attività, scena per scena ("minuto 1: oggi cucino sano, giuro").
 - **Controlli prima di…** comprare, partire, iscriversi: una scena per controllo.
 - **X o Y?** due oggetti appoggiati a terra, poi i dati che li distinguono, senza dichiarare un vincitore.
 - **Rispondo con…** un video di risposta a un commento, con la registrazione dello schermo di uno strumento.

@@ -36,8 +36,8 @@ Non allungare per arrivare a dieci. Cinque punti fanno sette slide (con apertura
 2…N-1: una voce per slide, con un esempio
 Ultima: le {N} voci in una schermata + "salvalo per…"
 ```
-Esempio (running): "4 cose da controllare prima di comprare scarpe da corsa online" → misura in centimetri, un dito di
-spazio in punta, tabella taglie del marchio, giorni per il reso → riepilogo.
+Esempio (viaggi): "4 cose da controllare prima di prenotare un treno notte" → orari di arrivo, tipo di cuccetta, bagaglio
+ammesso, regole di rimborso → riepilogo.
 
 **Prima e dopo** (salvataggi, follow)
 ```
